@@ -36,16 +36,15 @@ make
 
 ---
 
-## Screenshots
+## Output
 
-### Build Process
-![Build](images/build.png)
+The container runtime was successfully tested. Below is a sample execution:
 
-### Running Container
-![Run](images/run.png)
 
-### Inside Container
-![Container](images/container.png)
-
-###  Final Output
-![Output](images/output.png)
+Container started with PID: 20838
+ls
+bin dev etc home ...
+echo hello
+hello
+exit
+Container stopped
