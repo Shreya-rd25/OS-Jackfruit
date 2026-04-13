@@ -33,3 +33,19 @@ Each container runs as a separate process with its own filesystem, process space
 git clone https://github.com/Shreya-rd25/OS-Jackfruit.git
 cd OS-Jackfruit/boilerplate
 make
+
+---
+
+## Screenshots
+
+### Build Process
+![Build](images/build.png)
+
+### Running Container
+![Run](images/run.png)
+
+### Inside Container
+![Container](images/container.png)
+
+###  Final Output
+![Output](images/output.png)
